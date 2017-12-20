@@ -1,11 +1,11 @@
-use_frameworks!
 
 target 'HR_ChainProperty_Example' do
   pod 'HR_ChainProperty', :path => '../'
 
   target 'HR_ChainProperty_Tests' do
     inherit! :search_paths
-
+    
+    
     
   end
 end

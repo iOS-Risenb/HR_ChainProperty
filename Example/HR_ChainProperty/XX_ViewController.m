@@ -7,6 +7,7 @@
 //
 
 #import "XX_ViewController.h"
+#import "HR_ChainProperty.h"
 
 @interface XX_ViewController ()
 
@@ -17,7 +18,9 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-	// Do any additional setup after loading the view, typically from a nib.
+    
+    NSLog(@"%@", @"中国人".HR_UTF8());
+    
 }
 
 - (void)didReceiveMemoryWarning

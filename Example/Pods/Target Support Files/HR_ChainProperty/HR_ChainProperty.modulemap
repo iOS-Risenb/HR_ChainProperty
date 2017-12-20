@@ -1,0 +1,6 @@
+framework module HR_ChainProperty {
+  umbrella header "HR_ChainProperty-umbrella.h"
+
+  export *
+  module * { export * }
+}
