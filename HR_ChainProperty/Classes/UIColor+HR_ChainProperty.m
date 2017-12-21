@@ -33,8 +33,8 @@
     };
 }
 
-+ (UIColor *(^)(float, float, float))HR_RGB {
-    return ^(float r, float g, float b) {
++ (UIColor *(^)(unsigned int, unsigned int, unsigned int))HR_RGB {
+    return ^(unsigned int r, unsigned int g, unsigned int b) {
         return [UIColor colorWithRed:r / 255.0 green:g / 255.0 blue:b /255.0 alpha:1.0];
     };
 }

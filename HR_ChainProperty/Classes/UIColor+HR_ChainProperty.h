@@ -13,6 +13,6 @@
 
 + (UIColor *(^)(NSString *))HR_HexString;
 
-+ (UIColor *(^)(float, float, float))HR_RGB;
++ (UIColor *(^)(unsigned int, unsigned int, unsigned int))HR_RGB;
 
 @end
