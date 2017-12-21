@@ -18,10 +18,5 @@
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "HR_ChainProperty/Classes/*.{h,m}",
-  "resource_bundles": {
-    "HR_ChainProperty": [
-      "HR_ChainProperty/**/*.{md}"
-    ]
-  }
+  "source_files": "HR_ChainProperty/Classes/*.{h,m}"
 }

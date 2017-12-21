@@ -21,6 +21,10 @@
     
     NSLog(@"%@", @"中国人".HR_UTF8());
     
+//    self.view.backgroundColor = UIColor.HR_HexString(@"0X0000FF");
+//    self.view.backgroundColor = UIColor.HR_Hex(0X0000FF);
+    
+    self.view.backgroundColor = UIColor.HR_RGB(255, 0, 0);
 }
 
 - (void)didReceiveMemoryWarning

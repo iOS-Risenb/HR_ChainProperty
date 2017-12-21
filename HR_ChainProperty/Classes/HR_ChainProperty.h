@@ -12,4 +12,8 @@
 #import "NSString+HR_ChainProperty.h"
 
 
+#import "UIColor+HR_ChainProperty.h"
+
+
+
 #endif /* HR_ChainProperty_h */
