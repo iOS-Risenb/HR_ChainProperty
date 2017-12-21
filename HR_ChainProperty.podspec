@@ -14,7 +14,7 @@ s.name          = 'HR_ChainProperty'
 # a:较大更新
 # b:增加功能或者修改api等
 # c:较小修改
-s.version       = '0.2.0'
+s.version       = '0.2.1'
 
 
 # 2.2:摘要(创建时更新一次即可)
