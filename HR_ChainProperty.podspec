@@ -14,7 +14,7 @@ s.name          = 'HR_ChainProperty'
 # a:较大更新
 # b:增加功能或者修改api等
 # c:较小修改
-s.version       = '0.2.1'
+s.version       = '0.2.2'
 
 
 # 2.2:摘要(创建时更新一次即可)
@@ -61,7 +61,7 @@ s.ios.deployment_target = '8.0'
 # 3.2:代码文件
 #====================================================================
 # 'h,m' 之间不能有空格
-s.source_files = 'HR_ChainProperty/Classes/*.{h}'
+s.source_files = 'HR_ChainProperty/Classes/*.{h,m}'
 
 
 # 3.3:资源文件
